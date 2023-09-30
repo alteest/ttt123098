@@ -1,4 +1,4 @@
 
 def main():
     print("Super method.")
-    print("Seconbd line!!!")
+    print("Secobd line!!!")
