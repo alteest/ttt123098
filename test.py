@@ -1,3 +1,4 @@
 
 def main():
-    print("Super method")
+    print("Super method.")
+    print("Seconbd line.")
